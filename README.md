@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Mukherjee</h1>
-<h3 align="center">A passionate software engineer & frontend developer</h3>
+<h3 align="center">A passionate AI-ML enthusaist & frontend developer</h3>
 
 - 🌱 I’m currently learning **Java-Spring boot, python-PyTorch**
 
